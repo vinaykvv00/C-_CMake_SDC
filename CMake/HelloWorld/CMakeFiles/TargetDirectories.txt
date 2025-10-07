@@ -1,3 +1,0 @@
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/CMake/HelloWorld/CMakeFiles/hello.dir
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/CMake/HelloWorld/CMakeFiles/edit_cache.dir
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/CMake/HelloWorld/CMakeFiles/rebuild_cache.dir

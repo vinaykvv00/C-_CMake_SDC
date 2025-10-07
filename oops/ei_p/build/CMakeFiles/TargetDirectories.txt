@@ -1,3 +1,0 @@
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/ei_p/build/CMakeFiles/main.dir
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/ei_p/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/ei_p/build/CMakeFiles/rebuild_cache.dir

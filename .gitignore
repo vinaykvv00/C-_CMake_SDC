@@ -1,15 +1,26 @@
-# Build folders
+# Build and CMake files
 build/
 CMakeFiles/
 CMakeCache.txt
+Makefile
+cmake_install.cmake
 
-# Binary files
+# Compiled files
+*.o
+*.obj
 *.exe
 *.out
-*.o
+*.a
+*.so
 
-# OS files
-.DS_Store
-
-# Logs
+# Logs and temp
 *.log
+
+# System or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup files
+*~
