@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/encapsulation.cpp.o CMakeFiles/main.dir/inheritence.cpp.o CMakeFiles/main.dir/poly.cpp.o -o main 

@@ -1,0 +1,3 @@
+/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/construct_destruct/build/CMakeFiles/main.dir
+/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/construct_destruct/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/z00542KH/Desktop/Cpp+wsl/oops/construct_destruct/build/CMakeFiles/rebuild_cache.dir

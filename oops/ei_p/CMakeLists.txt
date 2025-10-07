@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.10)
+project(ei_p)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+add_executable(main
+    main.cpp
+    encapsulation.cpp
+    inheritence.cpp
+    poly.cpp
+)
