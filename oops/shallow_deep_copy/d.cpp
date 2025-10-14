@@ -14,8 +14,8 @@ public:
 
     // Deep copy constructor
     Deep(const Deep& d) {
-        data = new int;        // allocate new memory
-        *data = *(d.data);     // copy value
+        data = new int;    
+        *data = *(d.data);    
         cout << "Deep copy constructor called" << endl;
     }
 
@@ -30,7 +30,7 @@ public:
 
 int main() {
     Deep obj1(10);
-    Deep obj2 = obj1;  // deep copy
+    Deep obj2 = obj1;  
 
     cout << "Before changing obj2:" << endl;
     obj1.display();

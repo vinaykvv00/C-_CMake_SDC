@@ -3,11 +3,11 @@
 
 class Student {
 private:
-    int age;            // private → hidden
-    double marks;       // private → hidden
+    int age_;        
+    double marks_;      
 
 public:
-    void setData(int a, double m);
+    void setData(int age, double marks);
     int getAge();
     double getMarks();
 };

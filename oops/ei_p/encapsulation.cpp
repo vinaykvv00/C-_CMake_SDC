@@ -1,17 +1,17 @@
 #include "encapsulation.h"
 
-void Student::setData(int a, double m)
+void Student::setData(int age, double marks)
 {
-    age = a;
-    marks = m;
+    age_ = age;
+    marks_ = marks;
 }
 
 int Student::getAge()
 {
-    return age;
+    return age_;
 }
 
 double Student::getMarks()
 {
-    return marks;
+    return marks_;
 }
