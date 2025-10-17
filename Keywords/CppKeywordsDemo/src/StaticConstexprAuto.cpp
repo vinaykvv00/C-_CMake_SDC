@@ -34,7 +34,6 @@ void StaticConstexprAuto::demonstrateAuto() const {
 
 void StaticConstexprAuto::demonstrateRangeBasedLoop() const {
     std::vector<int> numbers = {1, 2, 3, 4, 5};
-    std::cout << "Range-based for loop output: ";
     for (auto num : numbers) {
         std::cout << num << " ";
     }
