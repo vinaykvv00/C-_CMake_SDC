@@ -8,7 +8,7 @@ Classroom::Classroom(const std::string& studentName, int studentAge) {
     std::cout << " use_count = " << student.use_count() << "\n";
 }
 
-Classroom::Classroom(const Classroom& other) : student_(other.student) { 
+Classroom::Classroom(const Classroom& other) : student(other.student) { 
     std::cout << " Classroom copy constructor called.\n";
     std::cout << " use_count after copy = " << student.use_count() << "\n";
 }

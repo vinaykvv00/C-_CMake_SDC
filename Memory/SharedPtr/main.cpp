@@ -14,7 +14,6 @@ int main() {
 
         std::cout << "\nAfter c2 block ends:\n";
         c1.showStudent();
-
         {
             std::shared_ptr<Student> sharedFromMain = c1.getStudent();
             std::cout << "\nExtra shared_ptr created in main.\n";
