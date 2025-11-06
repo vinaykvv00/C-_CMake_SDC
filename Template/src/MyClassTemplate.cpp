@@ -1,0 +1,1 @@
+#include "MyClassTemplate.hpp"
